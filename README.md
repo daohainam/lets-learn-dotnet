@@ -1,4 +1,5 @@
 # Khóa học .NET cơ bản
+(đã hoàn thành)
 
 Link đến khóa học: https://www.youtube.com/playlist?list=PLRLJQuuRRcFlaITD5F6XKQJxOt8QgCNAg
 
@@ -14,9 +15,6 @@ Khóa học sẽ bao gồm 4 nhóm nội dung cơ bản:
 - Bài tập áp dụng kiến thức đã học kết hợp tìm hiểu các mẫu thiết kế (design pattern).
 
 ## Nội dung:
-*Lưu ý: kế hoạch và nội dung của các bài học trong tương lai có thể thay đổi.*
-
-### Đã hoàn thành
 - Cài đặt Visual Studio và viết chương trình .NET đầu tiên 
 - Các kiểu dữ liệu trong .NET
 - Array
