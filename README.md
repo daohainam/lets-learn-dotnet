@@ -1,4 +1,4 @@
-# Khóa học .NET cơ bản
+# Khóa học .NET nền tảng
 (đã hoàn thành)
 
 Link đến khóa học: https://www.youtube.com/playlist?list=PLRLJQuuRRcFlaITD5F6XKQJxOt8QgCNAg
