@@ -15,39 +15,50 @@ Khóa học sẽ bao gồm 4 nhóm nội dung cơ bản:
 - Bài tập áp dụng kiến thức đã học kết hợp tìm hiểu các mẫu thiết kế (design pattern).
 
 ## Nội dung:
-- Cài đặt Visual Studio và viết chương trình .NET đầu tiên 
-- Các kiểu dữ liệu trong .NET
-- Array
-- Sử dụng các cấu trúc điều khiển
-- Phương thức
-- Exception
-- Stream và File
-- Collection
-- Biểu thức Lambda
-- LINQ
-- Lập trình hướng đối tượng
-- Đa hình
-- Static
-- Interface
-- Bài tập 1 (thiết kế và viết lại lệnh find trong Windows)
-- Cài đặt SQL Server
-- Giới thiệu ADO.NET
-- CRUD với ADO.NET
-- Bài tập 2 (thiết kế và viết chương trình xuất dữ liệu từ database ra file)
-- Repository và Unit of Work design pattern
-- Preprocessing directives 
-- Generic host 
-- Logging
-- Using attributes
-- Configuration
-- Dependency injection
-- Caching
-- Reflection
-- Lập trình đa luồng (multithreading)
-- Lập trình bất đồng bộ với async/await
-- Socket programming
-- Bài tập: viết một HTTP 1.1 web server đơn giản hỗ trợ GET method, phục vụ được cả nội dung tĩnh và động.
-- Làm việc với HttpClient
-- Viết unit test và testable code
+1 - Cài đặt Visual Studio và viết chương trình .NET đầu tiên
+2 - Các kiểu dữ liệu trong .NET
+3 - Array
+4 - Sử dụng các cấu trúc điều khiển
+5 - Phương thức
+6 - Làm việc với exception
+7 - Stream và File
+8 - Sử dụng Collection trong .NET
+9 - Biểu thức Lambda
+10 - LINQ
+11 - Lập trình hướng đối tượng trong .NET
+12 - Đa hình
+13 - Sử dụng từ khóa Static
+14 - Interface
+15 - Giải bài tập, unit test, abstract factory và decorator design pattern
+16 - Cài đặt SQL Server
+17 - Giới thiệu ADO.NET
+18 - CRUD với ADO.NET
+19 - Giải bài tập: chương trình xuất dữ liệu từ database ra file
+20 - Sử dụng Repository pattern
+21 - Unit of Work
+22 - Sử dụng các chỉ dẫn tiền biên dịch
+23 - .NET Generic host
+24 - Logging
+25 - Attribute
+26 - Sử dụng Configuration
+27 - Dependency Injection
+28 - Caching (và decorator design pattern)
+29 - Reflection
+30 - Làm quen với Thread
+31 - Sử dụng EventWaitHandle để đồng bộ hoạt động nhiều thread
+32 - Sử dụng Semaphore
+33 - Sử dụng lock, Monitor để kiểm soát các critical section
+34 - Xử lý bất đồng bộ với hàm async
+35 - Sử dụng lớp Task
+36 - Lập trình mạng với Socket
+37 - Giải bài tập viết Web server (phần 1)
+38 - Giải bài tập viết Web server (phần 2)
+39 - Giải bài tập viết Web server (phần 3)
+40 - Giải bài tập viết Web server (phần 4)
+41 - Sử dụng thư viện HttpClient
 
-Các video bài tập có thể được cập nhật thêm sau khi hoàn thành khóa học.
+## Bản cập nhật dự kiến (2026)
+- Cài đặt Visual Studio 2026
+- Cài đặt SQL Server 2025 và SSMS 22, thêm phần sửa lỗi kết nối.
+- Nâng cấp ứng dụng lên phiên bản .NET 10.
+- Builder pattern & Factory pattern
