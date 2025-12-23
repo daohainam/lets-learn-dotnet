@@ -15,47 +15,47 @@ Khóa học sẽ bao gồm 4 nhóm nội dung cơ bản:
 - Bài tập áp dụng kiến thức đã học kết hợp tìm hiểu các mẫu thiết kế (design pattern).
 
 ## Nội dung:
-1 - Cài đặt Visual Studio và viết chương trình .NET đầu tiên
-2 - Các kiểu dữ liệu trong .NET
-3 - Array
-4 - Sử dụng các cấu trúc điều khiển
-5 - Phương thức
-6 - Làm việc với exception
-7 - Stream và File
-8 - Sử dụng Collection trong .NET
-9 - Biểu thức Lambda
-10 - LINQ
-11 - Lập trình hướng đối tượng trong .NET
-12 - Đa hình
-13 - Sử dụng từ khóa Static
-14 - Interface
-15 - Giải bài tập, unit test, abstract factory và decorator design pattern
-16 - Cài đặt SQL Server
-17 - Giới thiệu ADO.NET
-18 - CRUD với ADO.NET
-19 - Giải bài tập: chương trình xuất dữ liệu từ database ra file
-20 - Sử dụng Repository pattern
-21 - Unit of Work
-22 - Sử dụng các chỉ dẫn tiền biên dịch
-23 - .NET Generic host
-24 - Logging
-25 - Attribute
-26 - Sử dụng Configuration
-27 - Dependency Injection
-28 - Caching (và decorator design pattern)
-29 - Reflection
-30 - Làm quen với Thread
-31 - Sử dụng EventWaitHandle để đồng bộ hoạt động nhiều thread
-32 - Sử dụng Semaphore
-33 - Sử dụng lock, Monitor để kiểm soát các critical section
-34 - Xử lý bất đồng bộ với hàm async
-35 - Sử dụng lớp Task
-36 - Lập trình mạng với Socket
-37 - Giải bài tập viết Web server (phần 1)
-38 - Giải bài tập viết Web server (phần 2)
-39 - Giải bài tập viết Web server (phần 3)
-40 - Giải bài tập viết Web server (phần 4)
-41 - Sử dụng thư viện HttpClient
+- Phần 1 - Cài đặt Visual Studio và viết chương trình .NET đầu tiên
+- Phần 2 - Các kiểu dữ liệu trong .NET
+- Phần 3 - Array
+- Phần 4 - Sử dụng các cấu trúc điều khiển
+- Phần 5 - Phương thức
+- Phần 6 - Làm việc với exception
+- Phần 7 - Stream và File
+- Phần 8 - Sử dụng Collection trong .NET
+- Phần 9 - Biểu thức Lambda
+- Phần 10 - LINQ
+- Phần 11 - Lập trình hướng đối tượng trong .NET
+- Phần 12 - Đa hình
+- Phần 13 - Sử dụng từ khóa Static
+- Phần 14 - Interface
+- Phần 15 - Giải bài tập, unit test, abstract factory và decorator design pattern
+- Phần 16 - Cài đặt SQL Server
+- Phần 17 - Giới thiệu ADO.NET
+- Phần 18 - CRUD với ADO.NET
+- Phần 19 - Giải bài tập: chương trình xuất dữ liệu từ database ra file
+- Phần 20 - Sử dụng Repository pattern
+- Phần 21 - Unit of Work
+- Phần 22 - Sử dụng các chỉ dẫn tiền biên dịch
+- Phần 23 - .NET Generic host
+- Phần 24 - Logging
+- Phần 25 - Attribute
+- Phần 26 - Sử dụng Configuration
+- Phần 27 - Dependency Injection
+- Phần 28 - Caching (và decorator design pattern)
+- Phần 29 - Reflection
+- Phần 30 - Làm quen với Thread
+- Phần 31 - Sử dụng EventWaitHandle để đồng bộ hoạt động nhiều thread
+- Phần 32 - Sử dụng Semaphore
+- Phần 33 - Sử dụng lock, Monitor để kiểm soát các critical section
+- Phần 34 - Xử lý bất đồng bộ với hàm async
+- Phần 35 - Sử dụng lớp Task
+- Phần 36 - Lập trình mạng với Socket
+- Phần 37 - Giải bài tập viết Web server (phần 1)
+- Phần 38 - Giải bài tập viết Web server (phần 2)
+- Phần 39 - Giải bài tập viết Web server (phần 3)
+- Phần 40 - Giải bài tập viết Web server (phần 4)
+- Phần 41 - Sử dụng thư viện HttpClient
 
 ## Bản cập nhật dự kiến (2026)
 - Cài đặt Visual Studio 2026
