@@ -1,12 +1,7 @@
 ﻿using Microsoft.Data.SqlClient;
 using RepositorySample.Entities;
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace RepositorySample.Repository.SqlServer
 {
@@ -132,13 +127,13 @@ namespace RepositorySample.Repository.SqlServer
 
             cmd.CommandText = sql.ToString();
             using var reader = cmd.ExecuteReader();
-            var orders = new List<Product>();
+            var products = new List<Product>();
 
             if (reader != null)
             {
                 while (reader.Read())
                 {
-                    orders.Add(new Product()
+                    products.Add(new Product()
                     {
                         Id = reader.GetGuid(0),
                         Name = reader.GetString(1),
@@ -148,7 +143,7 @@ namespace RepositorySample.Repository.SqlServer
                 }
             }
 
-            return orders;
+            return products;
         }
 
         public Product? FindById(Guid id)
